@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-random-signs-app/static/css/main.524def25.chunk.css",
+    "main.js": "/react-random-signs-app/static/js/main.ce8a05c6.chunk.js",
+    "main.js.map": "/react-random-signs-app/static/js/main.ce8a05c6.chunk.js.map",
+    "runtime~main.js": "/react-random-signs-app/static/js/runtime~main.0ec1bbd4.js",
+    "runtime~main.js.map": "/react-random-signs-app/static/js/runtime~main.0ec1bbd4.js.map",
+    "static/js/2.97294558.chunk.js": "/react-random-signs-app/static/js/2.97294558.chunk.js",
+    "static/js/2.97294558.chunk.js.map": "/react-random-signs-app/static/js/2.97294558.chunk.js.map",
+    "index.html": "/react-random-signs-app/index.html",
+    "precache-manifest.1a0744253bd196aed2d5be39769681db.js": "/react-random-signs-app/precache-manifest.1a0744253bd196aed2d5be39769681db.js",
+    "service-worker.js": "/react-random-signs-app/service-worker.js",
+    "static/css/main.524def25.chunk.css.map": "/react-random-signs-app/static/css/main.524def25.chunk.css.map"
+  }
+}
