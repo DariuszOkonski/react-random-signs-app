@@ -1,0 +1,36 @@
+.app {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.app h2 {
+  text-transform: uppercase;
+}
+
+.button-controller {
+  border: 1px solid black;
+  margin: 5px;
+  max-width: 400px;
+}
+
+.button-controller button {
+  display: block;
+  width: 200px;
+  margin: 5px auto;
+  padding: 10px 0;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.display-random-sign {
+  min-height: 50px;
+  line-height: 50px;
+  background-color: #ccc;
+}
+
+.display-table {
+  list-style: none;
+  border: 1px solid black;
+  padding: 0;
+}
